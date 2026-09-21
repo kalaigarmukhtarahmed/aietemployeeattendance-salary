@@ -1,0 +1,9 @@
+Emp ID,Name,Department,Month,Year,Basic Salary,Working Days,Days Present,Att Salary,OT Pay,Allowances,Gross Salary,Deductions,Net Salary
+AIET-ADM-001,Mr. Prabhakar Naik,Administration,9,2026,48000.0,25,25,48000.0,3000.0,5000.0,56000.0,4000.0,52000.0
+AIET-AIML-501,Prof. Karthik Alva,Artificial Intelligence & ML,9,2026,55000.0,25,24,52800.0,1520.0,7000.0,61320.0,4800.0,56520.0
+AIET-CSE-101,Dr. Rajesh K. Shetty,Computer Science & Eng,9,2026,85000.0,25,25,85000.0,3000.0,12000.0,100000.0,8500.0,91500.0
+AIET-CSE-102,Prof. Ananya Bhat,Computer Science & Eng,9,2026,62000.0,25,24,59520.0,1600.0,8000.0,69120.0,5500.0,63620.0
+AIET-ECE-301,Prof. Sneha Rao,Electronics & Communication,9,2026,52000.0,25,23,47840.0,1050.0,6500.0,55390.0,4500.0,50890.0
+AIET-ISE-201,Dr. Manoj Kumar Hegde,Information Science & Eng,9,2026,82000.0,25,25,82000.0,2500.0,11500.0,96000.0,8000.0,88000.0
+AIET-LAB-012,Ms. Divya Mendon,Computer Science & Eng,9,2026,32000.0,25,24,30720.0,1250.0,3500.0,35470.0,2500.0,32970.0
+AIET-ME-401,Dr. Suresh Poojary,Mechanical Engineering,9,2026,78000.0,25,25,78000.0,3600.0,10000.0,91600.0,7200.0,84400.0

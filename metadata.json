@@ -1,0 +1,6 @@
+{
+  "name": "AIET Employee Attendance & Salary Processing System",
+  "description": "Employee Attendance and Salary Processing desktop application for Alvas Institute of Engineering and Technology (AIET).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
